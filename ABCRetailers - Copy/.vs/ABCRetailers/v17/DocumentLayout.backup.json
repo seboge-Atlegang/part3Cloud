@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\atleg_lptzay4\\onedrive\\desktop\\abcretailers - copy\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\atleg_lptzay4\\onedrive\\desktop\\abcretailers - copy\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\atleg_lptzay4\\onedrive\\desktop\\abcretailers - copy\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\atleg_lptzay4\\onedrive\\desktop\\abcretailers - copy\\identityseeddata\\identityseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:identityseeddata\\identityseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\atleg_lptzay4\\onedrive\\desktop\\abcretailers - copy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\atleg_lptzay4\\onedrive\\desktop\\abcretailers - copy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114174344_RebuildCartTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251114174344_RebuildCartTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114172325_AppTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251114172325_AppTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\atleg_lptzay4\\onedrive\\desktop\\abcretailers - copy\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114171322_IdentitySetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251114171322_IdentitySetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114170643_IdentitySetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251114170643_IdentitySetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114115840_CreateIdentityTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251114115840_CreateIdentityTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114115031_AddIdentityTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251114115031_AddIdentityTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\atleg_lptzay4\\onedrive\\desktop\\abcretailers - copy\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114113056_FinalIdentitySchemaClean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251114113056_FinalIdentitySchemaClean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114112725_FinalIdentitySchemaClean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251114112725_FinalIdentitySchemaClean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114112425_FinalIdentitySchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251114112425_FinalIdentitySchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114101359_AddIdentitySchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251114101359_AddIdentitySchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\atleg_lptzay4\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\1.17.4\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAASwGoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T18:41:22.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T18:37:34.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdentitySeedData.cs",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\IdentitySeedData\\IdentitySeedData.cs",
+              "RelativeDocumentMoniker": "IdentitySeedData\\IdentitySeedData.cs",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\IdentitySeedData\\IdentitySeedData.cs",
+              "RelativeToolTip": "IdentitySeedData\\IdentitySeedData.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAqwF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T18:35:57.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T18:22:22.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251114174344_RebuildCartTables.cs",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114174344_RebuildCartTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251114174344_RebuildCartTables.cs",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114174344_RebuildCartTables.cs",
+              "RelativeToolTip": "Migrations\\20251114174344_RebuildCartTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T17:43:44.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251114172325_AppTables.cs",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114172325_AppTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251114172325_AppTables.cs",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114172325_AppTables.cs",
+              "RelativeToolTip": "Migrations\\20251114172325_AppTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T17:23:25.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251114171322_IdentitySetup.cs",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114171322_IdentitySetup.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251114171322_IdentitySetup.cs",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114171322_IdentitySetup.cs",
+              "RelativeToolTip": "Migrations\\20251114171322_IdentitySetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T17:13:22.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20251114170643_IdentitySetup.cs",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114170643_IdentitySetup.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251114170643_IdentitySetup.cs",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114170643_IdentitySetup.cs",
+              "RelativeToolTip": "Migrations\\20251114170643_IdentitySetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T17:06:43.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20251114115840_CreateIdentityTables.cs",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114115840_CreateIdentityTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251114115840_CreateIdentityTables.cs",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114115840_CreateIdentityTables.cs",
+              "RelativeToolTip": "Migrations\\20251114115840_CreateIdentityTables.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:58:40.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:54:40.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20251114115031_AddIdentityTables.cs",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114115031_AddIdentityTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251114115031_AddIdentityTables.cs",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114115031_AddIdentityTables.cs",
+              "RelativeToolTip": "Migrations\\20251114115031_AddIdentityTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:50:31.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Views\\Login\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Register.cshtml",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Views\\Login\\Register.cshtml",
+              "RelativeToolTip": "Views\\Login\\Register.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T11:42:43.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251114113056_FinalIdentitySchemaClean.cs",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114113056_FinalIdentitySchemaClean.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251114113056_FinalIdentitySchemaClean.cs",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114113056_FinalIdentitySchemaClean.cs",
+              "RelativeToolTip": "Migrations\\20251114113056_FinalIdentitySchemaClean.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:30:57.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20251114112725_FinalIdentitySchemaClean.cs",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114112725_FinalIdentitySchemaClean.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251114112725_FinalIdentitySchemaClean.cs",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114112725_FinalIdentitySchemaClean.cs",
+              "RelativeToolTip": "Migrations\\20251114112725_FinalIdentitySchemaClean.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:27:25.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251114112425_FinalIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114112425_FinalIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251114112425_FinalIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114112425_FinalIdentitySchema.cs",
+              "RelativeToolTip": "Migrations\\20251114112425_FinalIdentitySchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:24:25.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "Data\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:19:19.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20251114101359_AddIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114101359_AddIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251114101359_AddIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Migrations\\20251114101359_AddIdentitySchema.cs",
+              "RelativeToolTip": "Migrations\\20251114101359_AddIdentitySchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:13:59.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\1.17.4\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\1.17.4\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\1.17.4\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\1.17.4\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAjwG0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-14T10:00:59.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\atleg_lptzay4\\OneDrive\\Desktop\\ABCRetailers - Copy\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:56:32.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
